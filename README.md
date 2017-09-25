@@ -4,7 +4,7 @@ As you follow the instructions below, write your answers in [this worksheet](htt
 With a partner, take a photo and examine it's metadata
 ------------------------------------------------------
 
-Take a photo with you or your partner’s smartphone and open it with an online metadata viewer like http://metapicz.com or http://exif.regex.info. You may want to email yourself the photo so that you can open it on the school computer. Find the following metadata in your photo.
+Take a photo with you or your partner’s smartphone and open it with an online metadata viewer like http://metapicz.com or http://exif.regex.info. You may want to email yourself the photo so that you can open it on the school computer. Find and record the following metadata in your photo.
 + Camera	
 + Date	
 + Location	
