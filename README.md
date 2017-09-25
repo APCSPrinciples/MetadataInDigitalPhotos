@@ -14,9 +14,9 @@ Now, open that same photo in HxD. Are you able to find the metadata you just rec
 Solve two hacking competition problems
 --------------------------------------
 
-Hacking competitions sometimes include digital photos. One hacking competition had the photograph on the right with the clue “My friend sends me pictures before every ctf. He told me this one was special.” Can you find the secret flag that was hidden in the metadata of the photo? You can view the original photo online at this link. Download [the photo](https://github.com/ctfs/write-ups-2015/blob/master/csaw-ctf-2015/forensics/keep-calm-and-ctf-100/img.jpg) and use HxD or an online metadata viewer to find the secret flag. Record the secret flag.
+Hacking competitions sometimes include digital photos. One hacking competition had a photograph with the clue “My friend sends me pictures before every ctf. He told me this one was special.” Can you find the secret flag that was hidden in the metadata of the photo? Download [the photo](https://github.com/ctfs/write-ups-2015/blob/master/csaw-ctf-2015/forensics/keep-calm-and-ctf-100/img.jpg) and use HxD or an online metadata viewer to find and record the secret flag.
 
-Here’s another photo from a hacking competition. Download the original photo at [this link](https://mega.nz/#!QDZGiLSZ!fkkhBJuBBtBKGsLTDiF2NuLihP2WRd97Iynd3PhWqRw), then use HxD or an online metadata viewer to find the secret flag. Record the secret flag.
+Here’s another photo from a hacking competition. Download the original photo at [this link](https://mega.nz/#!QDZGiLSZ!fkkhBJuBBtBKGsLTDiF2NuLihP2WRd97Iynd3PhWqRw), then use HxD or an online metadata viewer to find and record the secret flag.
 
 Read more about metadata in photos
 ----------------------------------
