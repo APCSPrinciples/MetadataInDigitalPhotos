@@ -1,4 +1,4 @@
-# Metadata in DigitalPhotos
+# Metadata in Digital Photos
 As you follow the instructions below, write your answers in [this worksheet](https://drive.google.com/open?id=0Bz2ZkT6qWPYTUU94YkgxYUkzczQ). Submit your finished worksheet to google classroom.
 
 With a partner, take a photo and examine it's metadata
