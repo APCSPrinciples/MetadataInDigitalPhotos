@@ -23,5 +23,5 @@ Read more about metadata in photos
 
 The [Stolen Camera Finder](http://www.stolencamerafinder.com/) uses the metadata from a photograph to find if any other photographs from the same camera were posted on the web.
 
-If you have extra time, you might read [this story in Wired magazine](https://www.wired.com/2012/12/oops-did-vice-just-give-away-john-mcafees-location-with-this-photo/) about exif data lead to the capture of the fugitive John McAfee.
+If you have extra time, you might read [this story in Wired magazine](https://www.wired.com/2012/12/oops-did-vice-just-give-away-john-mcafees-location-with-this-photo/) about how exif data may have lead to the capture of the fugitive John McAfee.
 
